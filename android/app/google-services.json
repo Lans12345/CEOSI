@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110852687008",
+    "project_id": "ceosi-app-4c622",
+    "storage_bucket": "ceosi-app-4c622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110852687008:android:86d610f26a391eb07375c5",
+        "android_client_info": {
+          "package_name": "com.example.ceosi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110852687008-68g06o24ug8lc64v5idv2ba3q8di9f6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSSWNoGdNlVsRPnAR0rF_yE1i9qL4F0Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110852687008-68g06o24ug8lc64v5idv2ba3q8di9f6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
